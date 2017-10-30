@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tobi" name="Tobi's Kodi Repository" version="1.0.0" provider-name="Tobi">
+	<extension point="xbmc.addon.repository" name="Tobi's Kodi Repository">
+		<info compressed="false">https://github.com/TobiLiveStream/repository.TobiLiveStream/blob/master/addon.xml</info>
+		<checksum>https://github.com/TobiLiveStream/repository.TobiLiveStream/blob/master/addon.xml.md5</checksum>
+		<datadir zip="true">https://github.com/TobiLiveStream/repository.TobiLiveStream/blob/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>+++ Tobi's Kodi Repository +++</summary>
+		<description>Tobi's Kodi Repository für schöne Momente :)</description>
+		<platform>all</platform>
+	</extension>
+</addon>
